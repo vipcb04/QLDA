@@ -1,1 +1,1 @@
-print("genki dama + final flash+ dragon ball ")
+print("genki dama + final flash+ dragon ball, đasadas,dsadaghasdsadasads ")
