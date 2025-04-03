@@ -1,1 +1,1 @@
-print("genki dama")
+print("genki dama + final flash")
